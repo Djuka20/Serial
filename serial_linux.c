@@ -99,6 +99,8 @@ int main(){
 				goto end_of_while;
 			}
 		}
+		
+		printf("\n--------------------\n");
 	}	
 end_of_while:	
 	
